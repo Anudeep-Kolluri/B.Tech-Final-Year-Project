@@ -1,0 +1,1 @@
+Made as final year project by K-6 batch from Bharath University. In this project we feed video as input and it outputs video drawing boundary boxes of objects in the video with confidence levels. Refer Docs for more info
